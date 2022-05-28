@@ -9,6 +9,10 @@
 
 - [AWS Cloud Practitioner Essentials (Português)](https://bit.ly/AWS-Cloud-Practitioner)
 
+## Simulados
+
+- [AWS Certification Official Practice Question Sets (Português)](https://bit.ly/AWS-Official-Practice-Questions)
+
 ## Conteúdo
 
 ### Caravana Cloud
