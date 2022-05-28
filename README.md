@@ -2,12 +2,16 @@
 
 # Bonde da AWS
 
-- Inscrições: https://www.linuxtips.io/pages/bondedaaws
-- Curso AWS Cloud Practitioner Essentials (Português): https://bit.ly/AWS-Cloud-Practitioner
+- Inscrições: https://linuxtips.io/pages/bondedaaws
+- Assista ao vivo em https://twitch.tv/LINUXtips
+
+## Cursos
+
+- [AWS Cloud Practitioner Essentials (Português)](https://bit.ly/AWS-Cloud-Practitioner)
 
 ## Comunidade AWS
 
-- Grupos de Usuários: https://aws.amazon.com/developer/community/usergroups/
-- AWS Community Builders: https://aws.amazon.com/developer/community/community-builders/
-- AWS Heroes: https://aws.amazon.com/developer/community/heroes/
-- AWS Partner Ambassadors: https://aws.amazon.com/partners/ambassadors/
+- [Grupos de Usuários AWS](https://go.aws/3x44H2N)
+- [AWS Community Builders](https://go.aws/3MX3jEu)
+- [AWS Heroes](https://go.aws/3PNxNdL)
+- [AWS Partner Ambassadors](https://go.aws/3t1PkVS)
