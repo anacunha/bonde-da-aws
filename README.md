@@ -1,3 +1,5 @@
+![BondeDaAWS](/images/bonde-da-aws.png)
+
 # Bonde da AWS
 
 - Inscrições: https://www.linuxtips.io/pages/bondedaaws
