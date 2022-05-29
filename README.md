@@ -3,7 +3,7 @@
 # Bonde da AWS
 
 - Inscrições: https://linuxtips.io/pages/bondedaaws
-- Assista ao vivo em https://twitch.tv/LINUXtips
+- [Assista aqui!](https://bit.ly/BondeDaAWS-YouTube) 📺☁️
 
 ## Cursos
 
