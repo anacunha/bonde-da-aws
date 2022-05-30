@@ -8,6 +8,7 @@
 ## Cursos
 
 - [AWS Cloud Practitioner Essentials (Português)](https://bit.ly/AWS-Cloud-Practitioner)
+- [AWS Cloud Quest: Cloud Practitioner (Inglês)](https://cloudquest.skillbuilder.aws/) 🎮
 
 ## Simulados
 
