@@ -26,6 +26,13 @@
 - [Criando a sua rede VPC](https://vimeo.com/707515319)
 - [Criando um Banco de Dados no RDS](https://vimeo.com/704835542)
 
+#### Dicionário da AWS
+
+1. [Dicionário da AWS](https://vimeo.com/715326466/6f6923be3d)
+2. [Armazenamento](https://vimeo.com/715348990/d300549763)
+3. [Computação](https://vimeo.com/715558114/b123bae1e4)
+4. [Bancos de Dados](https://vimeo.com/715997928/f09843ddd6)
+
 ## Comunidade AWS
 
 - [Grupos de Usuários AWS](https://go.aws/3x44H2N)
