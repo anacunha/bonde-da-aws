@@ -11,7 +11,7 @@
 - [AWS Cloud Practitioner Essentials (Curso)](https://bit.ly/AWS-Cloud-Practitioner)
 - [AWS Cloud Practitioner Essentials (Vídeo)](https://pages.awscloud.com/LATAM-event-OE-AO-cpe-ptbr-sob-demanda-2022-confirmation.html)
 - [AWS Cloud Practitioner Revisão do Exame (Vídeo)](https://bit.ly/Cloud-Practitioner-Revisao)
-- [AWS Cloud Quest: Cloud Practitioner (Inglês)](https://cloudquest.skillbuilder.aws/) 🎮
+- [AWS Cloud Quest: Cloud Practitioner (Jogo)](https://cloudquest.skillbuilder.aws/) 🎮
 
 ### Simulados
 
