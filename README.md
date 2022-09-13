@@ -2,18 +2,23 @@
 
 # Bonde da AWS
 
-- Inscrições: https://linuxtips.io/pages/bondedaaws
-- [Assista aqui!](https://bit.ly/BondeDaAWS-YouTube) 📺☁️
+## Cloud Practitioner
 
-## Cursos
+- Bonde da AWS 1.0 - [Assista aqui!](https://bit.ly/BondeDaAWS-YouTube) 📺☁️
+
+### Cursos
 
 - [AWS Cloud Practitioner Essentials (Português)](https://bit.ly/AWS-Cloud-Practitioner)
 - [AWS Cloud Practitioner Revisão do Exame (Português)](https://bit.ly/Cloud-Practitioner-Revisao)
 - [AWS Cloud Quest: Cloud Practitioner (Inglês)](https://cloudquest.skillbuilder.aws/) 🎮
 
-## Simulados
+### Simulados
 
 - [AWS Certification Official Practice Question Sets (Português)](https://bit.ly/AWS-Official-Practice-Questions)
+
+## Solutions Architect - Associate
+
+- Bonde da AWS 2.0 - [Assista aqui!](https://www.youtube.com/watch?v=lMnv7fZ_vAM) 📺☁️
 
 ## Conteúdo
 
