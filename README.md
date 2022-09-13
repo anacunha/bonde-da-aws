@@ -8,8 +8,9 @@
 
 ### Cursos
 
-- [AWS Cloud Practitioner Essentials (Português)](https://bit.ly/AWS-Cloud-Practitioner)
-- [AWS Cloud Practitioner Revisão do Exame (Português)](https://bit.ly/Cloud-Practitioner-Revisao)
+- [AWS Cloud Practitioner Essentials (Curso)](https://bit.ly/AWS-Cloud-Practitioner)
+- [AWS Cloud Practitioner Essentials (Vídeo)](https://pages.awscloud.com/LATAM-event-OE-AO-cpe-ptbr-sob-demanda-2022-confirmation.html)
+- [AWS Cloud Practitioner Revisão do Exame (Vídeo)](https://bit.ly/Cloud-Practitioner-Revisao)
 - [AWS Cloud Quest: Cloud Practitioner (Inglês)](https://cloudquest.skillbuilder.aws/) 🎮
 
 ### Simulados
@@ -20,7 +21,22 @@
 
 - Bonde da AWS 2.0 - [Assista aqui!](https://www.youtube.com/watch?v=lMnv7fZ_vAM) 📺☁️
 
+### Cursos
+
+- [AWS Solutions Architect - Associate Revisão do Exame (Vídeo)](https://pages.awscloud.com/LATAM-event-OE-get-cert-saa-ptbr-sob-demanda-2022-confirmation.html)
+
+## Developer - Associate
+
+### Cursos
+
+- [AWS Developer - Associate Revisão do Exame (Vídeo)](https://pages.awscloud.com/LATAM-event-OE-get-cert-deva-ptbr-sob-demanda-2022-conf.html)
+
 ## Conteúdo
+
+### Vídeos
+
+- [O que é a nuvem AWS?](https://pages.awscloud.com/LATAM-event-OE-AO-awscloud-ptbr-sob-demanda-2022-conf.html)
+- [Como proteger sua nuvem AWS](https://pages.awscloud.com/LATAM-event-OE-AO-securing-ptbr-sob-demanda-2022-conf.html)
 
 ### Caravana Cloud
 
